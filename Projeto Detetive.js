@@ -74,6 +74,38 @@ if (resposta == "s" || resposta == "sim") {
    console.log(`Você é o assassino! Não se mexa! \nFez ${contador} ponto(s)!`)
  }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##Por Matheus Máximo
   
 
   
