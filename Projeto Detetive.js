@@ -105,7 +105,7 @@ if (resposta == "s" || resposta == "sim") {
 
 
 
-##Por Matheus Máximo
+//Por Matheus Máximo.
   
 
   
