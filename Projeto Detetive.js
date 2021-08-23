@@ -13,7 +13,7 @@ console.log(
 
 let contador = 0;
 
-let resposta = prompt("Você telefonou para a vítima?\n").toLowerCase();
+let resposta = prompt("\nVocê telefonou para a vítima?\n").toLowerCase();
 
 while (
   resposta != "s" &&
