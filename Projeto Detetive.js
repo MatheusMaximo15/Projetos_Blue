@@ -7,7 +7,7 @@
 */
 
 console.log("Jogo do detetive");
-console.log(`Você é suspeito de um crime! Responda as perguntas do detetive com "s" para sim, ou "n" para não. Suas respostas determinarão se você é ou não o culpado pelo crime! Boa sorte! :D`);
+console.log(`Você é suspeito de um crime! Responda as perguntas do detetive. Suas respostas determinarão se você é ou não o culpado pelo crime! Boa sorte! :D`);
 
 
 let contador = 0
@@ -52,7 +52,7 @@ if (resposta == "s" || resposta == "sim") {
 if (resposta == "s" || resposta == "sim") {
   ++contador;
 }
- resposta = prompt("\nJá trabalhou com a vítima?\n").toLowerCase();
+ resposta = prompt("\nVocê já trabalhou com a vítima?\n").toLowerCase();
  
  while (resposta != "s" && resposta != "n" && resposta != "sim" && resposta != "não" && resposta != "nao") {
   resposta = prompt(`
